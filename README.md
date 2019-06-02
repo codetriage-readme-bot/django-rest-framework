@@ -3,6 +3,7 @@
 [![build-status-image]][travis]
 [![coverage-status-image]][codecov]
 [![pypi-version]][pypi]
+[![codetriage-image]][codetriage]
 
 **Awesome web-browsable Web APIs.**
 
@@ -181,6 +182,8 @@ Please see the [security policy][security-policy].
 [travis]: https://travis-ci.org/encode/django-rest-framework?branch=master
 [coverage-status-image]: https://img.shields.io/codecov/c/github/encode/django-rest-framework/master.svg
 [codecov]: https://codecov.io/github/encode/django-rest-framework?branch=master
+[codetriage-image]: https://www.codetriage.com/tomchristie/django-rest-framework/badges/users.svg
+[codetriage]: https://www.codetriage.com/tomchristie/django-rest-framework
 [pypi-version]: https://img.shields.io/pypi/v/djangorestframework.svg
 [pypi]: https://pypi.org/project/djangorestframework/
 [twitter]: https://twitter.com/_tomchristie

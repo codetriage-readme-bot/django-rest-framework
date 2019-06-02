@@ -46,6 +46,8 @@ Getting involved in triaging incoming issues is a good way to start contributing
 * If the ticket is a feature request, do you agree with it, and could the feature request instead be implemented as a third party package?
 * If a ticket hasn't had much activity and it addresses something you need, then comment on the ticket and try to find out what's needed to get it moving again.
 
+If you would like to start triaging issues, one easy way to get started is to [subscribe to django-rest-framework on CodeTriage](https://www.codetriage.com/tomchristie/django-rest-framework).
+
 # Development
 
 To start developing on Django REST framework, clone the repo:
